@@ -1,7 +1,7 @@
 # ECE444-F2021-Lab6
 
 ## Unit Tests
-https://github.com/ECE444-2021Fall/project1-education-pathways-group-7-apollo/blob/add-unit-tests/ui/src/components/SignUp.test.js
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-7-apollo/blob/main/ui/src/components/SignUp.test.js
 
 ## Pros and Cons of TDD
 TDD is a software development methodology that involves writing and running tests before you write any app related code. The idea is that the tests will fail at first and you're supposed to write enough code to allow these tests to pass. There are pros and cons to this methodology.
